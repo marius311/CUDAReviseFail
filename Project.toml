@@ -1,0 +1,8 @@
+name = "CUDAReviseFail"
+uuid = "662058e0-2d4b-4174-9442-62e669509cf6"
+authors = ["marius <mariusmillea@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
